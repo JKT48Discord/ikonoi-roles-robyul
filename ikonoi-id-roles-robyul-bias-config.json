@@ -1,0 +1,274 @@
+[
+    {
+        "Label": "\n__=LOVE__",
+        "Message": ":warning:Bot tidak memberi role? Mau role eks-member? ping mod di #saran\n\n:warning: The bot doesn't give you any role? Want an ex-member role? Ping mod in #suggestions\n\n:white_flower:__**神押し Kami-oshi**__\n:flag_gb: Type long name for your **one and only** favourite oshi (kamioshi:gem:).\n:flag_id: Kalian hanya bisa memilih **satu oshi favorit** (kamioshi:gem:) dengan mengetikkan nama panjang.",
+        "Pool": "oshi-roles",
+        "Hidden": false,
+        "Limit": -1,
+        "Roles": [
+            {
+                "Name": "Otani Emiri", 
+                "Print": "Otani Emiri",
+                "Aliases": [
+                    "Otani Emiri",
+                    "Mirinya"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Oba Hana",
+                "Print": "Oba Hana",
+                "Aliases": [
+                    "Oba Hana",
+                    "Hana-chan",
+                    "Hana"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Otoshima Risa",
+                "Print": "Otoshima Risa",
+                "Aliases": [
+                    "Otoshima Risa",
+                    "Risa-chan",
+                    "Risa"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Saito Kiara",
+                "Print": "Saito Kiara",
+                "Aliases": [
+                    "Saito Kiara",
+                    "Kiara-chan",
+                    "Kiara"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Saito Nagisa",
+                "Print": "Saito Nagisa",
+                "Aliases": [
+                    "Saito Nagisa",
+                    "Naatan",
+                    "Nagisa"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sasaki Maika",
+                "Print": "Sasaki Maika",
+                "Aliases": [
+                    "Sasaki Maika",
+                    "Maika"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Takamatsu Hitomi",
+                "Print": "Takamatsu Hitomi",
+                "Aliases": [
+                    "Takamatsu Hitomi",
+                    "Hitomin"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Takiwaki Shoko",
+                "Print": "Takiwaki Shoko",
+                "Aliases": [
+                    "Takiwaki Shoko",
+                    "Shouko",
+                    "Shokora"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Noguchi Iori",
+                "Print": "Noguchi Iori",
+                "Aliases": [
+                    "Noguchi Iori",
+                    "Iori",
+                    "Iorin"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Morohashi Sana",
+                "Print": "Morohashi Sana",
+                "Aliases": [
+                    "Morohashi Sana",
+                    "Sanatsun",
+                    "Sana"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yamamoto Anna",
+                "Print": "Yamamoto Anna",
+                "Aliases": [
+                    "Yamamoto Anna",
+                    "Annya",
+                    "Anna"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Satake Nonno",
+                "Print": "Satake Nonno",
+                "Aliases": [
+                    "Satake Nonno",
+                    "Non-chan",
+                    "Nonno"
+                ],
+                "Reactions": []
+            }            
+        ]
+    },
+    {
+        "Label": "\n__≠ME__",
+        "Message": "",
+        "Pool": "oshi-roles",
+        "Hidden": false,
+        "Limit": -1,
+        "Roles": [
+            {
+                "Name": "Ogi Hana",
+                "Print": "Ogi Hana",
+                "Aliases": [
+                    "Ogi Hana",
+                    "Hanyatan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Ochiai Kirari",
+                "Print": "Ochiai Kirari",
+                "Aliases": [
+                    "Ochiai Kirari",
+                    "Kirarin"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kanisawa Moeko",
+                "Print": "Kanisawa Moeko",
+                "Aliases": [
+                    "Kanisawa Moeko",
+                    "Kani-chan",
+                    "Kanichan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kawaguchi Natsune",
+                "Print": "Kawaguchi Natsune",
+                "Aliases": [
+                    "Kawaguchi Natsune",
+                    "Nacchan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kawanago Natsumi",
+                "Print": "Kawanago Natsumi",
+                "Aliases": [
+                    "Kawanago Natsumi",
+                    "Natsumin"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sakurai Momo",
+                "Print": "Sakurai Momo",
+                "Aliases": [
+                    "Sakurai Momo",
+                    "Momokyun",
+                    "Momo"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Suganami Mirei",
+                "Print": "Suganami Mirei",
+                "Aliases": [
+                    "Suganami Mirei",
+                    "Mirei"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Suzuki Hitomi",
+                "Print": "Suzuki Hitomi",
+                "Aliases": [
+                    "Suzuki Hitomi",
+                    "Hiichan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Tanizaki Saya",
+                "Print": "Tanizaki Saya",
+                "Aliases": [
+                    "Tanizaki Saya",
+                    "Sayayan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Tomita Nanaka",
+                "Print": "Tomita Nanaka",
+                "Aliases": [
+                    "Tomita Nanaka",
+                    "Nanaka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Nagata Shiori",
+                "Print": "Nagata Shiori",
+                "Aliases": [
+                    "Nagata Shiori",
+                    "Shiorin"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Honda Miyuki",
+                "Print": "Honda Miyuki",
+                "Aliases": [
+                    "Honda Miyuki",
+                    "Miruten"
+                ],
+                "Reactions": []
+            }
+        ]
+    },
+    {
+        "Label": "__roles__",
+        "Message": "\n:white_flower:__**Groups Roles**__",
+        "Pool": "Group-roles",
+        "Hidden": false,
+        "Limit": -1,
+        "Roles": [
+            {
+                "Name": "💎Noimi",
+                "Print": "Noimi",
+                "Aliases": [
+                    "Noimi",
+                    "Not Equal Me"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "💗Ikorabu",
+                "Print": "Ikorabu",
+                "Aliases": [
+                    "Ikorabu",
+                    "Equal Love"
+                ],
+                "Reactions": []
+            }
+        ]
+    }
+]
