@@ -1,7 +1,7 @@
 [
     {
         "Label": "\n__=LOVE__",
-        "Message": ":warning:Bot tidak memberi role? Mau role eks-member? ping mod di #saran\n\n:warning: The bot doesn't give you any role? Want an ex-member role? Ping mod in #suggestions\n\n:white_flower:__**神押し Kami-oshi**__\n:flag_gb: Type long name for your **one and only** favourite oshi (kamioshi:gem:).\n:flag_id: Kalian hanya bisa memilih **satu oshi favorit** (kamioshi:gem:) dengan mengetikkan nama panjang.",
+        "Message": ":warning:Bot tidak memberi role? ping mod di #saran\n\n:warning: The bot doesn't give you any role? Ping mod in #suggestions\n\n:white_flower:__**押し Oshi**__\n:flag_gb: You can choose **your oshi** roles __as many as you want__.\n:flag_id: Kalian bisa memilih role **oshi** __sebanyak mungkin__.",
         "Pool": "oshi-roles",
         "Hidden": false,
         "Limit": -1,
